@@ -1,2 +1,2 @@
-# Prompts that gives orgasm to LLM.
+## Prompts that gives orgasm to LLM.
  
